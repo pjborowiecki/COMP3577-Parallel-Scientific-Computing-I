@@ -1,3 +1,4 @@
+<div></div>  
   <h1 align="center">N-Body Simulator</h1>
   <h3 align="center">COMP3671 Parallel Scientific Computing I Assignment 2022/2023</h3>
   <p align="center">
